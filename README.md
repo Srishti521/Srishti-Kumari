@@ -1,6 +1,6 @@
 # 📝 Shristi-Kumari DSA Practice
 
-Hi! I'm **Shristi Kumari**, a BCA student at Amity Noida, practicing **DSA in Java** daily to strengthen problem-solving skills and prepare for **2026 placements**.  
+Hi! I'm **Shristi Kumari**, a BCA student at Amity Noida, practicing **DSA in Java** daily to strengthen problem-solving skills and preparing for **2026 On-Campus placements**.  
 
 ---
 
