@@ -8,7 +8,7 @@ Hi! I'm **Shristi Kumari**, a BCA student at Amity Noida, practicing **DSA in Ja
 
 | Problem | Difficulty | Date |
 |---------|------------|------|
-| Majority Element (169) | Easy | 27 July 2025 |
+| Majority Element (169) | Easy |10 feb 2026|
 | ... | ... | ... |
 
 ---
@@ -16,7 +16,7 @@ Hi! I'm **Shristi Kumari**, a BCA student at Amity Noida, practicing **DSA in Ja
 ## 🚀 Goals
 
 - ✅ Solve **5 Easy + 3 Medium + 1 Hard** problems weekly  
-- ✅ Complete **Top 150 LeetCode Problems** before January 2026  
+- ✅ Complete **Top 150 LeetCode Problems**
 - ✅ Make **daily commits** to keep a green contribution graph  
 
 ---
